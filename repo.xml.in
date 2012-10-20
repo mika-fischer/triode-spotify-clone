@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<extensions>
+    <details>
+        <title lang="EN">Zoop's Squeezecenter Plugins</title>
+    </details>
+    <plugins>
+        <plugin name="SpotifyMika" version="VERSION" minTarget="7.5" maxTarget="*" target="unix">
+            <title lang="EN">3rd Party Spotify Plugin (Mika)</title>
+            <desc  lang="EN">Listen to your Spotify on your Squeezebox.  This plugin requires a subscription to a Spotify Premium and a local Squeezebox server.  It supports Spotify playback on Squeezebox2, Squeezebox3, Classic, Transporter, Boom, Duet, Touch and Radio players and will support sychronised playback between players.  Note: the plugin will only support NAS devices with Intel or ARM processors.</desc>
+            <creator>Triode</creator>
+            <email>triode1@btinternet.com</email>
+            <url>http://127.0.0.1/squeezebox-plugins/SpotifyMika-linux-vVERSION.zip</url>
+            <sha>SHASUM</sha>
+        </plugin>
+    </plugins>
+</extensions>

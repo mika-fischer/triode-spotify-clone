@@ -1,0 +1,20 @@
+What is this about?
+-------------------
+This script downloads triode's excellent Spotify plugin for Logitech Media Server and
+modifies it so that it can be installed parallel to the original version.
+
+This is very useful if the members of your household have more than one Spotify account
+and want to listen to different music each using their own Spotify account.
+
+So the script in this repository will only be useful to you if *all* of the
+following are true:
+- You use Logitech Media Server (LMS, aka Squeezebox Server, aka Slimserver) to
+  listen to music at home
+- You listen to Spotify through Logitech Media Server
+- You don't use the official plugin but the 3rd party plugin by triode
+  http://forums.slimdevices.com/showthread.php?79706-Announce-Spotify-Premium-Plugin-(Beta)
+- Someone else in your household with their own Spotify account also wants to listen
+  to Spotify through LMS
+
+Note: This works for me, but probably won't work for you out of the box. Patches and pull
+requests are welcome!
